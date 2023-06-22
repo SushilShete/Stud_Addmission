@@ -1,0 +1,4 @@
+{'_state': <django.db.models.base.ModelState object at 0x00000147C065E710>, 'id': 1, 'name': 'sushil', 'email': 'sushilshete19971997@gmail.com', 'password': 'ssuhil9798'}
+{'_state': <django.db.models.base.ModelState object at 0x00000147C065E7D0>, 'id': 3, 'name': 'patil', 'email': 'patil@yahoo.com', 'password': 'patil9798'}
+{'_state': <django.db.models.base.ModelState object at 0x00000147C065E890>, 'id': 4, 'name': 'sneha', 'email': 'snehal@gmail.com', 'password': 'sneha32'}
+{'_state': <django.db.models.base.ModelState object at 0x00000147C065E950>, 'id': 5, 'name': 'ss', 'email': 'patu@gmail.com', 'password': 'patu789'}

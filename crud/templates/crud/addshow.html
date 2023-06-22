@@ -1,0 +1,22 @@
+{% extends 'crud/base.html' %}
+{% block content %}
+ <div class="row">
+    <div class="col-sm-12 ">
+        <h4 class="text-center alert alert-info">Add New Student</h4>
+        <div class="col-sm-6">
+        <form action="" method="POST" >
+         {% csrf_token %}
+         {{form.as_p}} 
+         <input type="submit" class="btn btn-success" onclick="Add_Function()" value="Add">
+         <a href="{% url 'alldata'  %}" class="btn btn-info">Show All</a>
+        </form> 
+        </div>
+    </div>
+ </div>
+ <script>
+  function Add_Function() {
+    alert("Student Successfully Added..");
+  }
+</script>
+ 
+{% endblock content %}

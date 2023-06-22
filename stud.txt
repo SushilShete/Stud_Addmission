@@ -1,0 +1,2 @@
+{'_state': <django.db.models.base.ModelState object at 0x000002420F586860>, 'id': 1, 'name': 'sushil', 'email': 'sushilshete19971997@gmail.com', 'password': 'ssuhil9798'}
+{'_state': <django.db.models.base.ModelState object at 0x000002420F586920>, 'id': 2, 'name': 'akash', 'email': 'akash@gmail.com', 'password': 'akki123'}
